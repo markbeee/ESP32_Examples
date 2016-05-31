@@ -3,7 +3,7 @@
 LED connected to GPIO4 , can be configured in user_config.h
 gpio.h needs to be included from /driver_lib
 
-![ESP32 Developer Board](/images/ESP31B.jpg)
+![ESP32 Developer Board](/blink/images/ESP31B.jpg)
 
 ESP32 RTOS SDK v2.0
 ESP32 RTOS SDK: https://github.com/espressif/ESP32_RTOS_SDK
